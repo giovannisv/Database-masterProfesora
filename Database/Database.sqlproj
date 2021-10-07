@@ -74,5 +74,6 @@
     <Build Include="exp\Store Procedures\EmpleadoEliminar.sql" />
     <Build Include="exp\Store Procedures\EmpleadoObtener.sql" />
     <Build Include="exp\Tables\TipoIdentificacion.sql" />
+    <Build Include="exp\Store Procedures\IdentificacionEliminar.sql" />
   </ItemGroup>
 </Project>
