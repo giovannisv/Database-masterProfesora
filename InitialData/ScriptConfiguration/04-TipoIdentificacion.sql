@@ -13,7 +13,7 @@ VALUES
 
 ----ACTUALIZAR DATOS---
 UPDATE P SET
-  P.Pasaporte= TM.Pasaporte
+  P.Pasaporte= TM.Pasaporte,
   P.CedulaJuridica= TM.CedulaJuridica
 FROM dbo.TipoIdentificacion P
 INNER JOIN #TipoIdentificacionTemp TM
