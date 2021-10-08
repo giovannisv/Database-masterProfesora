@@ -73,10 +73,10 @@
     <Build Include="exp\Store Procedures\EmpleadoActualizar.sql" />
     <Build Include="exp\Store Procedures\EmpleadoEliminar.sql" />
     <Build Include="exp\Store Procedures\EmpleadoObtener.sql" />
-    <Build Include="exp\Tables\TipoIdentificacion.sql" />
     <Build Include="exp\Store Procedures\IdentificacionEliminar.sql" />
     <Build Include="exp\Store Procedures\IdentificacionActualizar.sql" />
     <Build Include="exp\Store Procedures\IdentificacionObtener.sql" />
     <Build Include="exp\Store Procedures\IdentificacionInsertar.sql" />
+    <Build Include="dbo\Tables\TipoIdentificacion.sql" />
   </ItemGroup>
 </Project>
