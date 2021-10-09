@@ -7,7 +7,7 @@ AS BEGIN
      E.IdTipoIdentificacion,
      E.Descripcion
         
-    FROM exp.TipoIdentificacion E
+    FROM dbo.TipoIdentificacion E
     WHERE
     (@IdTipoIdentificacion IS NULL OR IdTipoIdentificacion=@IdTipoIdentificacion)
 
